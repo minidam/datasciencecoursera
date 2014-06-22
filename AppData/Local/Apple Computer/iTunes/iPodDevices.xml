@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Devices</key>
+	<dict>
+		<key>EFFF6FDE95E63F3B</key>
+		<dict>
+			<key>Connected</key>
+			<date>2013-08-16T21:33:36Z</date>
+			<key>Device Class</key>
+			<string>iPhone</string>
+			<key>Family ID</key>
+			<integer>10016</integer>
+			<key>Firmware Version</key>
+			<integer>256</integer>
+			<key>Firmware Version String</key>
+			<string>6.1.3</string>
+			<key>ID</key>
+			<string>EFFF6FDE95E63F3B</string>
+			<key>IMEI</key>
+			<string>990001043060086</string>
+			<key>MEID</key>
+			<string>99000104306008</string>
+			<key>Region Info</key>
+			<string>LL/A</string>
+			<key>Serial Number</key>
+			<string>C8PHDR6UDTF9</string>
+			<key>Updater Family ID</key>
+			<integer>10016</integer>
+			<key>Use Count</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

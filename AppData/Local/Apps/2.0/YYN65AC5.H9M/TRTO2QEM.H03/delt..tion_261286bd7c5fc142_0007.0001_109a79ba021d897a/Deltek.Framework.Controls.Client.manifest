@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd">
+  <assemblyIdentity name="Deltek.Framework.Controls.Client" processorArchitecture="msil" version="2.0.0.0" />
+  <file name="Deltek.Framework.Controls.Client.dll" />
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="mscorlib" publicKeyToken="b77a5c561934e089" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.VisualBasic" publicKeyToken="b03f5f7f11d50a3a" version="8.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Windows.Forms" publicKeyToken="b77a5c561934e089" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System" publicKeyToken="b77a5c561934e089" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Xml" publicKeyToken="b77a5c561934e089" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics2.Win.UltraWinTabControl.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics2.Win.UltraWinEditors.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics2.Win.Misc.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Drawing" publicKeyToken="b03f5f7f11d50a3a" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Deltek.Product.Enumerations.Common" version="1.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Design" publicKeyToken="b03f5f7f11d50a3a" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics2.Win.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics2.Win.UltraWinSchedule.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics2.Win.UltraWinGrid.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Deltek.Framework.Globals.Common" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Deltek.Framework.Lookup.Common" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Deltek.Framework.Errors.Common" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Xml.Linq" publicKeyToken="b77a5c561934e089" version="3.5.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics2.Win.UltraWinCalcManager.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics2.Shared.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics2.Win.UltraWinToolbars.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Deltek.Framework.Report.Common" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.ReportViewer.WinForms" publicKeyToken="89845dcd8080cc91" version="11.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="CommunicatorAPI" publicKeyToken="31bf3856ad364e35" version="2.0.6362.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.ServiceModel" publicKeyToken="b77a5c561934e089" version="3.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="C1.Win.C1FlexGrid.2" publicKeyToken="79882d576c6336da" version="2.6.20093.427" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics2.Win.UltraWinTree.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Web.Extensions" publicKeyToken="31bf3856ad364e35" version="3.5.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Core" publicKeyToken="b77a5c561934e089" version="3.5.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Data" publicKeyToken="b77a5c561934e089" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Deployment" publicKeyToken="b03f5f7f11d50a3a" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Infragistics3.Documents.Excel.v11.1" publicKeyToken="7dd5c3163f2cd0cb" version="11.1.20111.1003" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Deltek.Framework.Images.Client" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+</assembly>
